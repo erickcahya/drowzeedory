@@ -1,6 +1,6 @@
-keras
-numpy
-opencv_contrib_python
-opencv_python
-pygame
-streamlit
+keras==2.11.0
+numpy==1.22.3
+opencv_contrib_python==4.5.5.64
+opencv_python==4.5.5.64
+pygame==2.1.2
+streamlit==1.7.0
